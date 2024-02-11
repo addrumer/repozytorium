@@ -1,1 +1,2 @@
-To jest mój readme
+To jest mój readme!
+!!!
